@@ -1,0 +1,28 @@
+.view-all-product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.view-all-product-new{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    margin-left: 80px;
+    margin-top: 295px;
+}
+
+.view-all-product-new-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+/* Additional styling for product items if needed */
+.product-item {
+    margin: 10px; /* Adjust the margin as needed */
+}

@@ -1,0 +1,19 @@
+.filter-section-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.filter-section-home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    margin-top: 250px;
+}
+
+.filter-section-crousel{
+    display: flex;
+    width: 100%;
+}

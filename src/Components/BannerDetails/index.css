@@ -1,0 +1,21 @@
+.banner-section-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* z-index: 1005 !important; */
+}
+
+.banner-section-home-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    margin-top: 301px;
+    
+}
+
+.banner-section-crousel{
+    display: flex;
+    width: 100%;
+}

@@ -1,0 +1,189 @@
+.home-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 305px;
+}
+
+.home-item-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    z-index: 1000;
+}
+
+.carousel-main-container{
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    z-index: 1000;
+}
+
+/* first crousel */
+
+.imag4{
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.carousel-image{
+    width: 100%;
+    height: 400px;
+}
+
+/* second crousel */
+
+.main-heading{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 20px;
+}
+
+.carousel-item2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 220px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.carousel-image2{
+    position: relative;
+    width: 220px;
+    height: 230px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.offers-description{
+    display: flex;
+    /* position: absolute;
+    /* top: 205px; */
+    margin-top: 0;
+    padding-top: 0;
+    background-color: #dfd4d4;
+    color: palevioletred;
+    width: 70px;
+    border-radius: 2px;
+    padding-left: 10px; 
+}
+
+.offers-sub-description{
+    font-size: 13px;
+    font-weight: 400;
+    color: #000;
+    width: 90%;
+    text-align: left;
+    padding-top: 10px;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.view-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    margin-top: 0;
+    padding-top: 0;
+    /* margin-bottom: 10px; */
+}
+.view{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: blue;
+}
+
+.crosusel-item2-lower-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.amount-heading{
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.amount-heading-underline{
+    color: #6e6262;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+.Amount-off{
+    color: #0a9323;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.add-to-cart-button{
+    border:1px solid blue;
+    color: blue;
+    font-weight: 550;
+    font-size: 14px;
+    background-color: transparent;
+    width: 100%;
+    height: 35px;
+    border-radius: 8px;
+}
+
+.imag5{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+/* // third croucel // */
+.carousel-item3{
+    padding-bottom: 30px;
+}
+
+.carousel-image3{
+    border-radius: 70px;
+    width: 220px;
+    height: 220;
+}
+
+/* // 5th or 6th croucel // */
+
+.carousel-image-mini{
+    width: 100%;
+    height: 250px;
+}
+
+/* // 7th crousel // */
+
+.seven-crousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.seven-crousel-item{
+    width: 50%;
+}
+
+.seven-carousel-image-mini{
+    width: 100%;
+    height: 400px;
+}

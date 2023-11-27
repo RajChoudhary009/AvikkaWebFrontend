@@ -1,0 +1,209 @@
+.favrate-main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    margin-top: 300px;
+    background-color: #f7f7f7;
+    padding-bottom: 30px;
+}
+
+.favrate-profile-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    /* padding-top: 10px; */
+}
+
+.main-profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 55%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #fff;
+    border: .5px solid #e6dada;
+}
+
+.name-heading{
+    font-size: 22px;
+    font-weight: 600;
+    color: #000;
+}
+.number-heading{
+    font-size: 16px;
+    font-weight: 600;
+    color: #999090;
+}
+.avtar-profile{
+    width: 70px;
+    height: 70px;
+}
+
+.edit-profile-section{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #fff;
+    width: 55%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    border-left: .5px solid #e6dada;
+    border-right: .5px solid #e6dada;
+    border-bottom: .5px solid #e6dada;
+}
+
+.left-align{
+    display: flex;
+    color: #6600ff;  
+    font-size: 18px;
+}
+
+.support-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 55%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    border-left: .5px solid #e6dada;
+    border-right: .5px solid #e6dada;
+    border-bottom: .5px solid #e6dada;
+    background-color: #fff;
+}
+.support-profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.support-item-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 35%;
+}
+.sub-item-support-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 10px;
+    width: 230px;
+}
+
+.padding-0{
+    margin: 0;
+    padding: 0;
+}
+
+.my-order{
+    font-size: 16px;
+}
+
+.my-description{
+    font-size: 14px;
+}
+
+.logout-btn{
+    align-self: center;
+    width: 100%;
+    border: 1px solid #6600ff;
+    color: #6600ff;
+    background-color: transparent;
+    margin: 10px;
+    padding: 15px;
+}
+
+.favrate-profile-bootom-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
+.profile-bootom1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33.3%;
+    height: 300px;
+    background-color: #fff;
+    border-left:.5px solid #999090;  
+}
+/* .payment-image{
+    width: 220px;
+} */
+.payment-safe-heading{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    width: 50%;
+    text-align: center;
+}
+.payment-safe-description{
+    font-size: 17px;
+    font-weight: 400;
+    color: #000;
+    width: 65%;
+    text-align: center;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.favrate-profile-bootom-cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #f7f7f7;
+}
+
+.sub-favrate-cont1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sub-favrate-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-left: 40px;
+    padding-right: 20px;
+}
+.helpcenter-heding{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    width: 14%;
+    text-align: right;
+
+}
+
+.helpcenter-desc{
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+    width: 83%;
+    text-align: left;
+}

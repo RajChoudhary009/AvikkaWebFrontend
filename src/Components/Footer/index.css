@@ -1,0 +1,100 @@
+.footer-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.footer-home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.footer-top-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-self: self-start;
+    width: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+}
+
+.footer-sub-heading{
+   color: #6c7a82;
+   font-size: 15px;
+   font-weight: 400;
+   list-style-type: none;
+   padding-top: 10px;
+}
+
+.footer-main-heading{
+   color: #6c7a82;
+   font-size: 18px;
+   font-weight: 700;
+   list-style-type: none;
+}
+
+.hr-line-footer{
+    border-top: 1px solid #6c7a82;
+    width: 85%;
+}
+
+.footer-mid-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.fb{
+    height: 40px;
+    width: 40px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.facebook{
+    background-color: rgb(26, 72, 173);
+}
+
+.twitwer{
+    background-color: rgb(77, 107, 185);
+}
+
+.google{
+    background-color: rgb(197, 21, 21);
+}
+
+.po{
+    background-color: rgb(247, 27, 27);
+}
+
+.mail{
+    background-color: #616161;
+}
+
+.insta{
+    background-color:rgb(205, 142, 153);
+}
+
+.linkdin{
+    background-color: rgb(48, 56, 206);
+}
+
+.footer-lower-container{
+    display: flex;
+    justify-content: flex-start;
+    width: 80%;
+    padding-bottom: 30px;
+}
